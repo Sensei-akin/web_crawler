@@ -1,0 +1,8 @@
+path : 
+- "//ul[@class='read-h1']/li/h1"
+- "//ul[@class='job-key-info']"
+- "//div[@class='job-details']"
+- "//ul[@class='read-h1']"
+- "//div[@class='read-date-sec']"
+- "//div[@class='mag-b bm-b-30']/a"
+- "//li[@class='mag-b']/h2"

@@ -1,0 +1,15 @@
+schedule
+pandas
+pymongo
+webdriver_manager
+selenium
+chromedriver_binary
+click
+gspread
+pyyaml
+oauth2client
+MonkeyLearn
+sentence_transformers
+openpyxl
+
+

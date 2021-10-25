@@ -1,0 +1,3 @@
+*/5 * * * * echo "hello stackoverflow" >> /var/log/test_file  2>&1
+*/5 * * * * /usr/local/bin/python3 /app/scraping_scripts/scrapeJobmag.py >> /var/log/cron.log 2>&1
+# remember to end this file with an empty new line
